@@ -81,4 +81,4 @@ input("\n")
 ![hasil codingan](https://user-images.githubusercontent.com/46749500/53288263-fbd41080-37b8-11e9-95f3-461481ab5974.png)
 
 # Sekian dan terima kasih
-# LUTFIA ANNISA
+# ADING - TI.20.A1
