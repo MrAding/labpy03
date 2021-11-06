@@ -1,2 +1,7 @@
-# test
-Tugas Praktikum 3
+# README.md
+
+# Latihan1.py
+
+# Latihan2.py
+
+# Pemrograman.py
