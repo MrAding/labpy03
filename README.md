@@ -1,3 +1,9 @@
+```
+Nama    : Ahmad Fadhiil Muttaqin
+Nim     : 312010615
+Kelas   : TI.20.A1
+```
+
 # labpy03
 # Latihan1
 ![latihan1](https://user-images.githubusercontent.com/46749500/53287677-ee1b8c80-37b2-11e9-94ed-3cae74178a40.png)
@@ -81,4 +87,3 @@ input("\n")
 ![hasil codingan](https://user-images.githubusercontent.com/46749500/53288263-fbd41080-37b8-11e9-95f3-461481ab5974.png)
 
 # Sekian dan terima kasih
-# AHMAD FADHIIL MUTTAQIN - TI.20.A1
